@@ -1,0 +1,5 @@
+# I really liked the first rendition of the app because I thought the colors and layout looked very simple, inviting, and intuitive. It looked like any typical app that apple has released.
+# The first change that I made was to add the stars as a rating system. Everyone knows how to use the stars to rate things out of 5. This seemed very intuitive.
+# The second thing that I added was a search function. If someone used the app for a long time, they would have a lot of entries and might have to search for one to be able to find it.
+# The next thing that I added was a random generator. The bottom button on the left allows the user to generate a random entry from the ones they have inputted. This helps the user to decide where they want to eat by offering a function to randomly decide from the places that they have already been.
+# The final thing that I added was location services. At the bottom there is a location indicator which allows you to input your location and find restaurants that are close by.
